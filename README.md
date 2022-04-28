@@ -17,3 +17,4 @@ Il permettait de gérer le serveur de manière très personnalisée. Le serveur 
 
 Le bot a été développé en 2019 et n'est pas à sa version stable mais utilisable sous réserve de vérifier la version de l'api JDA en Java.
 Le token du bot mis dans le code est obsolète pour les mal-intentionnés.
+Le bot était hébergé 20h/24h 7j/7j sur un mini-pc Orange PI faisant office de serveur.
