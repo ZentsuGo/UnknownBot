@@ -6,7 +6,7 @@ Il permettait de gérer le serveur de manière très personnalisée. Le serveur 
 
 - Les utilisateurs sont séparés et ne peuvent communiquer directement : chacun a un channel entre lui et le bot (sauf administrateur humain inclus).
 - Tous les channels sont uniques pour chaque utilisateur selon leur identifiant, chaque channel est une instance pour chaque utilisateur cela permet d'éviter que les utilisateurs aient des channels en commun pour se voir dans la liste des utilisateurs connectés.
-![alt text](https://github.com/zentsugo/UnknownBot/main/capture3.jpg?raw=true)
+![alt text](https://github.com/zentsugo/UnknownBot/capture3.jpg?raw=true)
 
 - Chaque utilisateur a à sa disponibilité le bot à son entière disposition pour des questions à réponse automatique ou directement envoyées à quelqu'un de plus compétent (l'administrateur humain du serveur) si l'utilisateur le souhaite. Sinon les questions posées sont en vérité envoyées dans chaque channel #question de chaque utilisateur. Cela permet un système de question et réponse entre utilisateurs de façon anonyme.
 - Les utilisateurs peuvent égalent soumettre leur réponse et leurs propositions.
