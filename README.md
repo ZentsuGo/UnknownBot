@@ -10,7 +10,10 @@ Il permettait de gérer le serveur de manière très personnalisée. Le serveur 
 
 - Chaque utilisateur a à sa disponibilité le bot à son entière disposition pour des questions à réponse automatique ou directement envoyées à quelqu'un de plus compétent (l'administrateur humain du serveur) si l'utilisateur le souhaite. Sinon les questions posées sont en vérité envoyées dans chaque channel #question de chaque utilisateur. Cela permet un système de question et réponse entre utilisateurs de façon anonyme.
 - Les utilisateurs peuvent égalent soumettre leur réponse et leurs propositions.
+![alt text](https://github.com/zentsugo/UnknownBot/blob/main/capture2.jpg?raw=true)
+
 - Un channel #cours/#informations est disponible pour chaque utilisateur avec des cours d'introduction à l'informatique écrits accompagnés d'images pédagogiques, ce channel est mis à jour au dépend de l'administrateur humain par l'intermédiaire du bot qui peut effectuer des mises à jour pour tous les utilisateurs de manière rapide.
+![alt text](https://github.com/zentsugo/UnknownBot/blob/main/capture1.jpg?raw=true)
 
 Le bot a été développé en 2019 et n'est pas à sa version stable mais utilisable sous réserve de vérifier la version de l'api JDA en Java.
 Le token du bot mis dans le code est obsolète pour les mal-intentionnés.
